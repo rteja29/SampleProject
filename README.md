@@ -1,4 +1,5 @@
-# SampleProject
+ SampleProject
 This is a sample project
 
-I have edited this file just to make a commit
+I will wdit this project from git bash from now.
+This is a sample repository for sample purpose
